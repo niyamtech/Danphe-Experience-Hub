@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Aussie Tax Mate logo</title>
+  <desc id="logoDesc">Rounded square with an upward arrow representing progress</desc>
+  <defs>
+    <linearGradient id="atmGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0C6CF2" />
+      <stop offset="100%" stop-color="#5C9CFF" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="100" height="100" rx="24" fill="url(#atmGradient)" />
+  <path d="M47 39h26c2.2 0 4 1.8 4 4v26a4 4 0 0 1-6.8 2.8L64 65.6l-18.6 18.6A4 4 0 0 1 38.6 80L57.3 61.4 48 52a4 4 0 0 1 2.8-6.8Z" fill="#ffffff" />
+</svg>
