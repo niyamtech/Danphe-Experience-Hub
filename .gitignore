@@ -1,0 +1,40 @@
+### Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+### Build output
+dist/
+build/
+.vite/
+/.parcel-cache/
+
+### Environment files
+.env
+.env.*.local
+
+### Logs
+logs/
+*.log
+
+### OS generated
+.DS_Store
+Thumbs.db
+
+### IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+### Coverage / test
+coverage/
+.nyc_output/
+
+### Misc
+.cache/
+storybook-static/
+
+# Ignore local VS Code settings
+.vscode/
